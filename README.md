@@ -48,7 +48,8 @@ Repo for OSC + Unreal Engine + Wekinator
 
 9. Open the Motion Sender app on your iPhone 
 10. Make sure the IP adress matches with the IP from your Computer 
-11. Select "Pitch, roll, yaw" and deselect all the other inputs 
+11. Select "Pitch, roll, yaw" and deselect all the other inputs :
+    ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Tutorial_Setup_iPhoneSettings.jpg?raw=true)
 
 
 
