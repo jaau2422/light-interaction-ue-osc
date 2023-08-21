@@ -35,10 +35,12 @@ Repo for OSC + Unreal Engine + Wekinator
 6. Open a new Wekinator project
 
 7. Insert the following Inputs:
+   ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Tutorial_Setup_Wekinator_NewProject.png?raw=true)
 
-8. Next, got to View<Outputs<Change host, port or message< Change the Host to your IP-adress (for some reason it is localhost by default), then click "OK" and close the OUTPUT window
+9. Next, got to View<Outputs<Change host, port or message< Change the Host to your IP-adress (for some reason it is localhost by default), then click "OK" and close the OUTPUT window
 
-9. Click on View < Input/output connection editor < See picture below how to connect the inputs
+10. Click on View < Input/output connection editor < See picture below how to connect the inputs:
+     ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Tutorial_Setup_ConnectionEditor.png?raw=true)
 
    
 
