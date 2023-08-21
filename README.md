@@ -24,20 +24,21 @@ Repo for OSC + Unreal Engine + Wekinator
 2. Open Level "Interaction_new"
 
 3. Open Blueprint in the Outliner "BP_OSC_LIGHT"
+   ![alt text](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Tutorial_Setup_Blueprint_OSC.png?raw=true)
 
-4. Edit the IP4-adress of the Recieving Server to the IP adress of the Computer that you will send the OSC message from (Make sure "Start Listening is ticked"!)
+5. Edit the IP4-adress of the Recieving Server to the IP adress of the Computer that you will send the OSC message from (Make sure "Start Listening is ticked"!)
 
    
 
    WEKINATOR
 
-5. Open a new Wekinator project
+6. Open a new Wekinator project
 
-6. Insert the following Inputs:
+7. Insert the following Inputs:
 
-7. Next, got to View<Outputs<Change host, port or message< Change the Host to your IP-adress (for some reason it is localhost by default), then click "OK" and close the OUTPUT window
+8. Next, got to View<Outputs<Change host, port or message< Change the Host to your IP-adress (for some reason it is localhost by default), then click "OK" and close the OUTPUT window
 
-8. Click on View < Input/output connection editor < See picture below how to connect the inputs
+9. Click on View < Input/output connection editor < See picture below how to connect the inputs
 
    
 
