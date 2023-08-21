@@ -1,3 +1,5 @@
+![alt text](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Screenshot 0.png?raw=true)
+
 # light-interaction-ue-osc
 Repo for OSC + Unreal Engine + Wekinator
 
