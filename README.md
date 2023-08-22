@@ -7,7 +7,7 @@ Repo for OSC + Unreal Engine + Wekinator
 
 <h2>(A)<u>*Requirements/Installation guide*</u></h2>
 
-<h3>1. UNREAL ENGINE</h3>h3>
+<h3>1. UNREAL ENGINE</h3>
 
    - Unreal Engine Version 5.1
 
