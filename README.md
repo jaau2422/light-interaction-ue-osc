@@ -36,9 +36,10 @@ Repo for OSC + Unreal Engine + Wekinator
    
 IPHONE
 
-9. Open the Motion Sender app on your iPhone 
-10. Make sure the IP adress matches with the IP from your Computer and the Port is 6448
-11. Select "Pitch, roll, yaw" and deselect all the other inputs :
+9. Open the Motion Sender app on your iPhone
+10. Make sure your on the same WIFI as your machine.
+11. Make sure the IP adress matches with the IP from your Computer and the Port is 6448
+12. Select "Pitch, roll, yaw" and deselect all the other inputs :
 
 
 9. ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Tutorial_Setup_iPhoneSettings.jpg?raw=true)
@@ -49,3 +50,11 @@ IPHONE
 1. Run the Level
 2. Make sure your IPhone Screen is on and the App is running. There should be a green Circle next to "Reconnect"
 3. Test the Pitch and Yaw movement on your phone and see if the light in the scene is moving. (The Inputs are different from each phone so you might have to turn you phone around a bit)
+
+<h2>(C)  *<u>Troubleshooting</u>*</h2>
+1.Scenario: The Phone is not sending outputs
+   -Make sure the IP adress matches with the IP adress in the BP_OSC_LIGHT Blueprint, and that all of it matches with your IP adress of the machine youre using
+   -Make sure youre on the same WIFI!
+
+2.Scenario: The Light is moving in a weird way
+ -Try changing the angle of your phone, maybe you need to turn it around (Sometimes the Sensor in your phone isnt very accurate)
