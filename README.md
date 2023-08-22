@@ -41,6 +41,8 @@ Repo for OSC + Unreal Engine + Wekinator
 7. Insert the following Inputs:
    ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/Screenshot3.png?raw=true)
 
+   !!!!! Make sure that the IP adress you insert is matching with the IP Adress from the machine you are running the Unreal Project from!!!!
+
 9. Next, got to View<Outputs<Change host, port or message< Change the Host to your IP-adress (for some reason it is localhost by default), then click "OK" and close the OUTPUT window
 
 10. Click on View < Input/output connection editor < See picture below how to connect the inputs:
