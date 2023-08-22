@@ -65,11 +65,12 @@ Repo for OSC + Unreal Engine + Wekinator
 12. Now you are ready to train your Wekinator Neural network with your phone movement!
     
 
-<u>(C) *Training you movements in Wekinator*</u>
+<u>(C) *Recording you movements in Wekinator*</u>
 
 In this case, the use of Wekinator is basically so we can easily map the values from our phone from a weird float input to a stable 0 - 1 output. The use of the Neural Network here is literally just to smooth out the values! 
 ![WekinatorSetup](https://github.com/jaau2422/light-interaction-ue-osc/blob/main/images/outputs.gif?raw=true)
 
+<u>(C) *Preparing the recording (This takes approx 10 min so make sure you have some Tech rehearsal time with the LED Wall)*</u>
 What you need to do, is put someone with the phone in front of the LED Wall (App needs to be open and "Send"-toggle "on" all the time during the interaction!) 
 
 Another person sits in front of the Computer dragging the slider of the wekinator input from 0 - 1. While this happens, the light on the LED wall should move from left to right on outputs-1 and from top to bottom with outputs-2.
