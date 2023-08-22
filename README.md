@@ -7,13 +7,14 @@ Repo for OSC + Unreal Engine + Wekinator
 
 (A)<u>*Requirements/Installation guide*</u>
 
-1. Unreal Engine:
+<h3>1. UNREAL ENGINE<h3>
 
    - Unreal Engine Version 5.1
 
    - OSC Plugin
      
-2. On your iPhone: Download "Motion Sender" For Wekinator by Louis McCallum
+<h3>2. IPHONE<h3> 
+   - Download "Motion Sender" For Wekinator by Louis McCallum
 
 
 
